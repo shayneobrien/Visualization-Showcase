@@ -1,2 +1,1 @@
-# Visualization-Showcase
-Selected visualizations that I have created for the visualization of light detection and ranging (lidar) datasets.
+Visualizations that I created while at Clemson University developing methods for the visualization of light detection and ranging (LIDAR) data.
